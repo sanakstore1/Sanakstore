@@ -133,7 +133,7 @@ fi
 echo -e "\e[32mloading...\e[0m"
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/sanaakstore1/sanakstore/main/"
+    REPO="https://raw.githubusercontent.com/sanakstore1/sanakstore/main/"
 
 ####
 start=$(date +%s)
