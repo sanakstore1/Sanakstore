@@ -1,0 +1,5 @@
+REPO="https://raw.githubusercontent.com/sanakstore/sanakstore2/main/"
+
+
+
+wget -O /root/.config/rclone/rclone.conf "${REPO}limit/rclone.conf"
